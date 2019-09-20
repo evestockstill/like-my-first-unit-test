@@ -17,7 +17,7 @@ test('return true if number is 8', function(assert) {
     const expected = true;
  //Arrange
  // Set up your parameters and expectations
-const result = isEven(number);
+    const result = isEven(number);
  //Act 
  // Call the function you're testing and set the result to a const
 
@@ -30,7 +30,7 @@ test('return false if number is 3', function(assert) {
     const expected = false;
  //Arrange
  // Set up your parameters and expectations
-const result = isEven(number);
+    const result = isEven(number);
  //Act 
  // Call the function you're testing and set the result to a const
 
